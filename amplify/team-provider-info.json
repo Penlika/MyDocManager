@@ -1,0 +1,33 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mydocmanager-dev-3fe4f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::980921745478:role/amplify-mydocmanager-dev-3fe4f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::980921745478:role/amplify-mydocmanager-dev-3fe4f-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mydocmanager-dev-3fe4f-deployment",
+      "UnauthRoleName": "amplify-mydocmanager-dev-3fe4f-unauthRole",
+      "StackName": "amplify-mydocmanager-dev-3fe4f",
+      "StackId": "arn:aws:cloudformation:us-east-1:980921745478:stack/amplify-mydocmanager-dev-3fe4f/a7caf270-7db6-11ef-9702-0affe65c35f5",
+      "AmplifyAppId": "d228qxbb3hurk"
+    },
+    "categories": {
+      "auth": {
+        "mydocmanagerc88fbe69": {}
+      },
+      "storage": {
+        "Evagale": {}
+      },
+      "function": {
+        "Penlika": {
+          "secretsPathAmplifyAppId": "d228qxbb3hurk",
+          "deploymentBucketName": "amplify-mydocmanager-dev-3fe4f-deployment",
+          "s3Key": "amplify-builds/Penlika-307745666141317a7a48-build.zip"
+        }
+      },
+      "api": {
+        "Penlika": {}
+      }
+    }
+  }
+}

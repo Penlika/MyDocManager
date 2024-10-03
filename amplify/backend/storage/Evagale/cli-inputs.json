@@ -1,0 +1,14 @@
+{
+  "resourceName": "Evagale",
+  "tableName": "USER",
+  "partitionKey": {
+    "fieldName": "Email",
+    "fieldType": "string"
+  },
+  "sortKey": {
+    "fieldName": "fullname",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}

@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "auth": {
+      "mydocmanagerc88fbe69": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    },
+    "storage": {
+      "Evagale": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": [],
+  "secretNames": [
+    "dsad"
+  ]
+}
